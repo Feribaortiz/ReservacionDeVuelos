@@ -1,0 +1,6 @@
+C:\Users\rockd\Desktop\ReservacionDeVuelos\ReservacionDeVuelos\bin\Debug\ReservacionDeVuelos.exe.config
+C:\Users\rockd\Desktop\ReservacionDeVuelos\ReservacionDeVuelos\bin\Debug\ReservacionDeVuelos.exe
+C:\Users\rockd\Desktop\ReservacionDeVuelos\ReservacionDeVuelos\bin\Debug\ReservacionDeVuelos.pdb
+C:\Users\rockd\Desktop\ReservacionDeVuelos\ReservacionDeVuelos\obj\Debug\ReservacionDeVuelos.csprojAssemblyReference.cache
+C:\Users\rockd\Desktop\ReservacionDeVuelos\ReservacionDeVuelos\obj\Debug\ReservacionDeVuelos.exe
+C:\Users\rockd\Desktop\ReservacionDeVuelos\ReservacionDeVuelos\obj\Debug\ReservacionDeVuelos.pdb
