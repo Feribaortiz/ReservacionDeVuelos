@@ -30,6 +30,28 @@ namespace ReservacionDeVuelos
                 return Nombre;
             }
         }
+        public string pDomicilio
+        {
+            set
+            {
+                Domicilio = value;
+            }
+            get
+            {
+                return Domicilio;
+            }
+        }
+        public double pMillasAcumuladas
+        {
+            set
+            {
+                MillasAcumuladas = value;
+            }
+            get
+            {
+                return MillasAcumuladas;
+            }
+        }
 
     }
 }

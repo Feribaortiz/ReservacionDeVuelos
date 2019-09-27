@@ -11,3 +11,9 @@ C:\Users\e-fibarria\Desktop\ReservacionDeVuelos-master\ReservacionDeVuelos\Reser
 C:\Users\e-fibarria\Desktop\ReservacionDeVuelos-master\ReservacionDeVuelos\ReservacionDeVuelos\obj\Debug\ReservacionDeVuelos.csproj.CoreCompileInputs.cache
 C:\Users\e-fibarria\Desktop\ReservacionDeVuelos-master\ReservacionDeVuelos\ReservacionDeVuelos\obj\Debug\ReservacionDeVuelos.exe
 C:\Users\e-fibarria\Desktop\ReservacionDeVuelos-master\ReservacionDeVuelos\ReservacionDeVuelos\obj\Debug\ReservacionDeVuelos.pdb
+C:\Users\rockd\Documents\ReservacionDeVuelos\ReservacionDeVuelos\ReservacionDeVuelos\bin\Debug\ReservacionDeVuelos.exe.config
+C:\Users\rockd\Documents\ReservacionDeVuelos\ReservacionDeVuelos\ReservacionDeVuelos\bin\Debug\ReservacionDeVuelos.exe
+C:\Users\rockd\Documents\ReservacionDeVuelos\ReservacionDeVuelos\ReservacionDeVuelos\bin\Debug\ReservacionDeVuelos.pdb
+C:\Users\rockd\Documents\ReservacionDeVuelos\ReservacionDeVuelos\ReservacionDeVuelos\obj\Debug\ReservacionDeVuelos.csprojAssemblyReference.cache
+C:\Users\rockd\Documents\ReservacionDeVuelos\ReservacionDeVuelos\ReservacionDeVuelos\obj\Debug\ReservacionDeVuelos.exe
+C:\Users\rockd\Documents\ReservacionDeVuelos\ReservacionDeVuelos\ReservacionDeVuelos\obj\Debug\ReservacionDeVuelos.pdb
